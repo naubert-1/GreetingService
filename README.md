@@ -1,1 +1,1 @@
-# GreetingService
+O projeto Greeting Service é uma aplicação Spring Boot que disponibiliza um serviço web REST capaz de retornar uma mensagem de saudação personalizada. O sistema permite informar o nome do usuário por meio de Query Parameter ou Path Variable, retornando uma mensagem simples de cumprimento.
